@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Shift
+EMP001,Arun Kumar,Sales,Evening
+EMP002,Priya Sharma,Operations,Morning
+EMP003,Karan Raj,Customer Service,Morning
+EMP004,Divya Nair,Accounts,Morning
+EMP005,Rahul Das,Accounts,Morning
+EMP006,Meena Devi,Operations,Morning
+EMP007,Vijay Anand,Sales,Evening
+EMP008,Anitha Rao,Customer Service,Morning
+EMP009,Suresh Babu,Sales,Evening
+EMP010,Nisha Priya,Sales,Evening
+EMP011,Ajay Kumar,Customer Service,Evening
+EMP012,Kavya Sharma,Operations,Evening
+EMP013,Ravi Raj,Customer Service,Morning
+EMP014,Sneha Nair,Operations,Evening
+EMP015,Manoj Das,Customer Service,Morning
+EMP016,Pooja Devi,Operations,Morning
+EMP017,Hari Anand,Customer Service,Evening
+EMP018,Swetha Rao,Sales,Morning
+EMP019,Dinesh Babu,Operations,Morning
+EMP020,Asha Priya,Accounts,Morning
+EMP021,Vishal Kumar,Customer Service,Evening
+EMP022,Keerthi Sharma,Accounts,Morning
+EMP023,Gokul Raj,Sales,Morning
+EMP024,Lavanya Nair,Operations,Morning
+EMP025,Surya Das,Operations,Evening
+EMP026,Deepa Devi,Customer Service,Morning
+EMP027,Mohan Anand,Accounts,Morning
+EMP028,Riya Rao,Operations,Morning
+EMP029,Prakash Babu,Customer Service,Evening
+EMP030,Anu Priya,Accounts,Evening
+EMP031,Bala Kumar,Accounts,Evening
+EMP032,Shalini Sharma,Sales,Morning
+EMP033,Santhosh Raj,Sales,Morning
+EMP034,Harini Nair,Customer Service,Evening
+EMP035,Naveen Das,Operations,Evening
+EMP036,Varsha Devi,Sales,Evening
+EMP037,Ramesh Anand,Operations,Morning
+EMP038,Ishita Rao,Operations,Morning
+EMP039,Karthik Babu,Accounts,Evening
+EMP040,Maya Priya,Customer Service,Evening
+EMP041,Sanjay Kumar,Sales,Morning
+EMP042,Reshma Sharma,Operations,Evening
+EMP043,Ganesh Raj,Customer Service,Evening
+EMP044,Janani Nair,Accounts,Morning
+EMP045,Lokesh Das,Sales,Evening
+EMP046,Monica Devi,Operations,Morning
+EMP047,Ashwin Anand,Accounts,Morning
+EMP048,Preethi Rao,Operations,Evening
+EMP049,Vimal Babu,Customer Service,Evening
+EMP050,Shreya Priya,Operations,Morning
